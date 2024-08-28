@@ -29,7 +29,7 @@ const Login = () => {
                              
                              
                              <div className='flex items-center mb-3 gap-3 justify-center'>
-                                 <p>Don't have an account? <Link className='font-bold' to="/login">Sign Up </Link></p>
+                                 <p>Don't have an account? <Link className='font-bold' to="/Register">Sign Up </Link></p>
                              </div>
 
                         
